@@ -50,17 +50,6 @@ We release updates frequently to fix bugs and add new features.
 
 ---
 
-## ⚠️ Windows SmartScreen Warning
-
-Since this application is not yet signed with an EV certificate (which is expensive!), Windows might show a warning saying **"Windows protected your PC"**.
-
-**This is safe to ignore.** To install:
-
-1.  Click on **"More info"**.
-2.  Click **"Run anyway"**.
-
-![SmartScreen Guide](https://user-images.githubusercontent.com/...) ---
-
 ## 🛠️ Features at a Glance
 
 * **Real-time Sync:** Orders sync instantly between Waiter App, POS, and Kitchen.
