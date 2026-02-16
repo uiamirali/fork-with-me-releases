@@ -4,7 +4,7 @@
 
   # Fork With Me | Desktop App
   
-  **The All-in-One Restaurant Management System (POS)**
+  **The All In One Cloud Solution for Modern Dining**
   
   Make your restaurant smarter, faster, and more profitable.
   
