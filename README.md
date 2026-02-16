@@ -10,8 +10,7 @@
   
   [🌐 Visit Website](https://forkwithme.com) • [📖 Documentation](https://forkwithme.com/docs)
 
-  [![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/fork-with-me-releases?style=for-the-badge&color=blue)](https://github.com/YOUR_USERNAME/fork-with-me-releases/releases/latest)
-  [![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/fork-with-me-releases/total?style=for-the-badge&color=green)](https://github.com/YOUR_USERNAME/fork-with-me-releases/releases)
+
   [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey?style=for-the-badge)](https://github.com/YOUR_USERNAME/fork-with-me-releases)
 
 </div>
