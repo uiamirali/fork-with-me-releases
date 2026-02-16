@@ -8,7 +8,7 @@
   
   Make your restaurant smarter, faster, and more profitable.
   
-  [🌐 Visit Website](https://forkwithme.com) • [🐞 Report Bug](https://github.com/YOUR_USERNAME/fork-with-me-releases/issues) • [📖 Documentation](https://forkwithme.com/docs)
+  [🌐 Visit Website](https://forkwithme.com) • [📖 Documentation](https://forkwithme.com/docs)
 
   [![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/fork-with-me-releases?style=for-the-badge&color=blue)](https://github.com/YOUR_USERNAME/fork-with-me-releases/releases/latest)
   [![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/fork-with-me-releases/total?style=for-the-badge&color=green)](https://github.com/YOUR_USERNAME/fork-with-me-releases/releases)
